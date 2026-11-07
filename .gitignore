@@ -148,3 +148,6 @@ multirun/
 
 # Local copy written by the basic_cleaning step (the real copy lives in W&B)
 src/basic_cleaning/clean_sample.csv
+
+# Random forest config written by main.py at runtime
+rf_config.json
